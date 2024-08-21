@@ -18,7 +18,7 @@ The Decentralized Voting System using Ethereum Blockchain is a secure and transp
 
 2. Clone the repository by using the command
 
-3. git clone <pre lang=LANG> https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git
+3. git clone <pre lang=LANG> https://github.com/NA-M-A-N/Decentral-voting-system
 
 4. Download and install Ganache.
 
